@@ -30,7 +30,8 @@ header{
   overflow: auto;
 }
 #picture{
-  width: 24px;
+  width: 10%;
+  height: 10%;
   position: absolute;
   left: 50px;
   top: 50px;
