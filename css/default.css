@@ -9,6 +9,12 @@ body{
 header{
   background-color: #ACFA58;
 }
+#main{
+  background-color: #088A85;
+  width:calc(100% -200px);
+  min-width:500px;
+  float:left;
+}
 #main1{
   background-color: #04B4AE;
   float:left;
