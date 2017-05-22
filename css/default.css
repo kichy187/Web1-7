@@ -11,13 +11,16 @@ header{
 }
 #main1{
   background-color: #04B4AE;
+  float:left;
 }
 #main2{
   background-color: #04B4AE;
+  float:left;
 }
 aside{
   background-color: #0A0A2A;
 }
 footer{
   background-color: #A9E2F3;
+  clear:both;
 }
