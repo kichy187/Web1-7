@@ -15,15 +15,12 @@ header{
   min-width:500px;
   float:left;
 }
-#main1{
+.box{
   background-color: #04B4AE;
-  float:left;
-  width:500px;
-}
-#main2{
-  background-color: #04B4AE;
-  float:left;
-  width:500px;
+  color: black;
+  width: 240px;
+  margin: 5px;
+  float: left;
 }
 aside{
   background-color: #0A0A2A;
