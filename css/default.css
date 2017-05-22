@@ -7,7 +7,7 @@ body{
   background-color: gray;
 }
 header{
-  background-color: #ACFA58;
+  background-color: #D0F5A9;
 }
 #main{
   background-color: #088A85;
@@ -28,6 +28,6 @@ aside{
   width:200px;
 }
 footer{
-  background-color: #ACFA58;
+  background-color: #D0F5A9;
   clear:both;
 }
