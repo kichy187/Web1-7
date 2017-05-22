@@ -1,19 +1,24 @@
 @charset "UTF-8";
 *{
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
 }
 body{
   background-color: gray;
+  margin: 48px 0 0 0;
 }
 header{
   background-color: #D0F5A9;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
 }
 #main{
   background-color: #088A85;
-  width:calc(100% -200px);
-  min-width:500px;
-  float:left;
+  width: calc(100% -200px);
+  min-width: 500px;
+  float: left;
 }
 .box{
   background-color: #04B4AE;
@@ -27,9 +32,12 @@ header{
 aside{
   background-color: #0A0A2A;
   float: right;
-  width:200px;
+  width: 200px;
+  position: relative;
+  top: 20px;
+  right: 10px;
 }
 footer{
   background-color: #D0F5A9;
-  clear:both;
+  clear: both;
 }
