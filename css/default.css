@@ -22,12 +22,18 @@ header{
 }
 .box{
   background-color: #04B4AE;
-  color: black;
+  color: white;
   width: 240px;
   height: 80px;
   margin: 5px;
   float: left;
   overflow: auto;
+}
+#picture{
+  width: 24px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
 }
 aside{
   background-color: #0A0A2A;
