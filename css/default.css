@@ -22,6 +22,7 @@ header{
   height: 80px;
   margin: 5px;
   float: left;
+  overflow: auto;
 }
 aside{
   background-color: #0A0A2A;
